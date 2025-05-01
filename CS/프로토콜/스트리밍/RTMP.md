@@ -1,3 +1,6 @@
+---
+tags: streaming
+---
 ![[Pasted image 20250423004906.png]]
 # RTMP(Real-Time Messaging Protocol)
 RTMP는 비디오 스트리밍, TV 생방송등에 사용되는 프로토콜
